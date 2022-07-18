@@ -11,12 +11,12 @@
 
 
 ## Reference:
-  @article{nakka2022information,
-  title={Information-based guidance and control architecture for multi-spacecraft on-orbit inspection},
-  author={Nakka, Yashwanth Kumar and H{\"o}nig, Wolfgang and Choi, Changrak and Harvard, Alexei and Rahmani, Amir and Chung, Soon-Jo},
-  journal={Journal of Guidance, Control, and Dynamics},
-  pages={1--18},
-  year={2022},
-  publisher={American Institute of Aeronautics and Astronautics}
-  }
+    @article{nakka2022information,
+    title={Information-based guidance and control architecture for multi-spacecraft on-orbit inspection},
+    author={Nakka, Yashwanth Kumar and H{\"o}nig, Wolfgang and Choi, Changrak and Harvard, Alexei and Rahmani, Amir and Chung, Soon-Jo},
+    journal={Journal of Guidance, Control, and Dynamics},
+    pages={1--18},
+    year={2022},
+    publisher={American Institute of Aeronautics and Astronautics}
+    }
 
