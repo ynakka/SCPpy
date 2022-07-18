@@ -3,7 +3,7 @@ A templated code for sequential convex programming
 
 Example:
   
-  Free flyer robot:
+  1) Free flyer robot:
   
     1) Create jax dynamics file: Example freeflyer.py
     2) Create Robot class that acts as an input to SCP 
