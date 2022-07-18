@@ -20,3 +20,9 @@
     publisher={American Institute of Aeronautics and Astronautics}
     }
 
+    @article{nakka2021trajectory,
+      title={Trajectory Optimization of Chance-Constrained Nonlinear Stochastic Systems for Motion Planning Under Uncertainty},
+      author={Nakka, Yashwanth Kumar and Chung, Soon-Jo},
+      journal={IEEE Transactions in Robotics},
+      year={2022}
+    }
